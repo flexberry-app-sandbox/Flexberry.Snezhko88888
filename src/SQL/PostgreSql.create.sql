@@ -31,7 +31,7 @@ CREATE TABLE Заказ (
  КодЗаказа INT NULL,
  Комментарий VARCHAR(255) NULL,
  Сумма DOUBLE PRECISION NULL,
- ТипОплаты VARCHAR(1) NULL,
+ ТипОплаты VARCHAR(11) NULL,
  Бокс UUID NOT NULL,
  Клиент UUID NOT NULL,
  Сотрудники UUID NOT NULL,

@@ -12,6 +12,7 @@ namespace IIS.Snezhko_88888
 {
     using System;
     using System.Xml;
+    using ICSSoft.STORMNET;
     
     
     // *** Start programmer edit section *** (Using statements)
@@ -31,21 +32,25 @@ namespace IIS.Snezhko_88888
         // *** Start programmer edit section *** (ТипОплаты.1 CustomAttributes)
 
         // *** End programmer edit section *** (ТипОплаты.1 CustomAttributes)
+        [Caption("Безналичный")]
         1,
         
         // *** Start programmer edit section *** (ТипОплаты.2 CustomAttributes)
 
         // *** End programmer edit section *** (ТипОплаты.2 CustomAttributes)
+        [Caption("Наличный")]
         2,
         
         // *** Start programmer edit section *** (ТипОплаты.3 CustomAttributes)
 
         // *** End programmer edit section *** (ТипОплаты.3 CustomAttributes)
+        [Caption("СПБ")]
         3,
         
         // *** Start programmer edit section *** (ТипОплаты.4 CustomAttributes)
 
         // *** End programmer edit section *** (ТипОплаты.4 CustomAttributes)
+        [Caption("Перевод")]
         4,
     }
 }
