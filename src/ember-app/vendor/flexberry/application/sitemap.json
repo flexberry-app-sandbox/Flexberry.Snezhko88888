@@ -1,0 +1,64 @@
+﻿{
+  "applicationCaption": "Snezhko_88888",
+  "applicationTitle": "Snezhko_88888",
+  "items": [
+    {
+      "link": null,
+      "menuName": "snezhko-88888",
+      "caption": "Snezhko_88888",
+      "title": "Snezhko_88888",
+      "children": [
+        {
+          "link": "i-i-s-snezhko-88888-сотрудники-l",
+          "menuName": null,
+          "caption": "Сотрудники",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-snezhko-88888-услуга-l",
+          "menuName": null,
+          "caption": "Услуга",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-snezhko-88888-заказ-l",
+          "menuName": null,
+          "caption": "Заказ",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-snezhko-88888-должность-l",
+          "menuName": null,
+          "caption": "Должность",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-snezhko-88888-бокс-l",
+          "menuName": null,
+          "caption": "Бокс",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-snezhko-88888-детали-l",
+          "menuName": null,
+          "caption": "Детали",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-snezhko-88888-клиент-l",
+          "menuName": null,
+          "caption": "Клиент",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

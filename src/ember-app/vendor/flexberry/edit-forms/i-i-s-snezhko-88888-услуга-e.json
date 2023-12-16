@@ -1,0 +1,23 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": "детали",
+      "displayAttributeName": "наименование",
+      "required": true,
+      "relationName": "СоставУслуги.Детали",
+      "projection": "ДеталиL",
+      "detailModelName": "i-i-s-snezhko-88888-состав-услуги"
+    }
+  ],
+  "external": false,
+  "caption": "Услуга",
+  "name": "IISSnezhko_88888УслугаE",
+  "className": "УслугаE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-snezhko-88888-услуга",
+      "modelProjection": "УслугаE"
+    }
+  ]
+}
