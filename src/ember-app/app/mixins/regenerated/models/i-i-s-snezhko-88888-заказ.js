@@ -106,7 +106,8 @@ export let defineProjections = function (modelClass) {
     }, { index: 10, displayMemberPath: 'фамилия' }),
     составЗаказа: hasMany('i-i-s-snezhko-88888-состав-заказа', 'Состав заказа', {
       услуга: belongsTo('i-i-s-snezhko-88888-услуга', 'Услуга', {
-        наименование: attr('Наименование', { index: 1, hidden: true })
+        наименование: attr('Наименование', { index: 1, hidden: true }),
+        цена: attr('Цена', { index: 2 })
       }, { index: 0, displayMemberPath: 'наименование' })
     })
   });

@@ -31,7 +31,8 @@ namespace IIS.Snezhko_88888
     [AccessType(ICSSoft.STORMNET.AccessType.none)]
     [View("СоставЗаказаE", new string[] {
             "Услуга as \'Услуга\'",
-            "Услуга.Наименование as \'Наименование\'"}, Hidden=new string[] {
+            "Услуга.Наименование as \'Наименование\'",
+            "Услуга.Цена as \'Цена\'"}, Hidden=new string[] {
             "Услуга.Наименование"})]
     [MasterViewDefineAttribute("СоставЗаказаE", "Услуга", ICSSoft.STORMNET.LookupTypeEnum.Standard, "", "Наименование")]
     public class СоставЗаказа : ICSSoft.STORMNET.DataObject

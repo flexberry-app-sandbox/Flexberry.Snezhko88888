@@ -29,7 +29,8 @@ export let ValidationRules = {
 export let defineProjections = function (modelClass) {
   modelClass.defineProjection('СоставЗаказаE', 'i-i-s-snezhko-88888-состав-заказа', {
     услуга: belongsTo('i-i-s-snezhko-88888-услуга', 'Услуга', {
-      наименование: attr('Наименование', { index: 1, hidden: true })
+      наименование: attr('Наименование', { index: 1, hidden: true }),
+      цена: attr('Цена', { index: 2 })
     }, { index: 0, displayMemberPath: 'наименование' })
   });
 };

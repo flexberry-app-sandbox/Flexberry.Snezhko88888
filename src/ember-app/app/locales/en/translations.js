@@ -106,6 +106,58 @@ $.extend(true, translations, {
           caption: 'Home',
           title: ''
         },
+        сотрудники: {
+          caption: 'Сотрудники',
+          title: 'Сотрудники',
+          'i-i-s-snezhko-88888-сотрудники-l': {
+            caption: 'Сотрудники',
+            title: 'Сотрудники'
+          },
+          'i-i-s-snezhko-88888-должность-l': {
+            caption: 'Должность',
+            title: 'Должность'
+          }
+        },
+        клиенты: {
+          caption: 'Клиенты',
+          title: 'Клиенты',
+          'i-i-s-snezhko-88888-клиент-l': {
+            caption: 'Клиент',
+            title: 'Клиент'
+          }
+        },
+        заказ: {
+          caption: 'Заказ',
+          title: 'Заказ',
+          'i-i-s-snezhko-88888-заказ-l': {
+            caption: 'Заказ',
+            title: 'Заказ'
+          }
+        },
+        боксы: {
+          caption: 'Боксы',
+          title: 'Боксы',
+          'i-i-s-snezhko-88888-бокс-l': {
+            caption: 'Бокс',
+            title: 'Бокс'
+          }
+        },
+        'справочник-услуг': {
+          caption: 'Справочник услуг',
+          title: 'Справочник услуг',
+          'i-i-s-snezhko-88888-услуга-l': {
+            caption: 'Услуга',
+            title: 'Услуга'
+          }
+        },
+        'справочник-детали': {
+          caption: 'Справочник детали ',
+          title: 'Справочник детали ',
+          'i-i-s-snezhko-88888-детали-l': {
+            caption: 'Детали',
+            title: 'Детали'
+          }
+        },
         'snezhko-88888': {
           caption: 'Snezhko_88888',
           title: 'Snezhko_88888',

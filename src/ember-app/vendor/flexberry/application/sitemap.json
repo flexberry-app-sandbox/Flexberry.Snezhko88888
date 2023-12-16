@@ -4,57 +4,97 @@
   "items": [
     {
       "link": null,
-      "menuName": "snezhko-88888",
-      "caption": "Snezhko_88888",
-      "title": "Snezhko_88888",
+      "menuName": "сотрудники",
+      "caption": "Сотрудники",
+      "title": "Сотрудники",
       "children": [
         {
           "link": "i-i-s-snezhko-88888-сотрудники-l",
           "menuName": null,
           "caption": "Сотрудники",
-          "title": "",
-          "children": null
-        },
-        {
-          "link": "i-i-s-snezhko-88888-услуга-l",
-          "menuName": null,
-          "caption": "Услуга",
-          "title": "",
-          "children": null
-        },
-        {
-          "link": "i-i-s-snezhko-88888-заказ-l",
-          "menuName": null,
-          "caption": "Заказ",
-          "title": "",
+          "title": "Сотрудники",
           "children": null
         },
         {
           "link": "i-i-s-snezhko-88888-должность-l",
           "menuName": null,
           "caption": "Должность",
-          "title": "",
+          "title": "Должность",
           "children": null
-        },
-        {
-          "link": "i-i-s-snezhko-88888-бокс-l",
-          "menuName": null,
-          "caption": "Бокс",
-          "title": "",
-          "children": null
-        },
-        {
-          "link": "i-i-s-snezhko-88888-детали-l",
-          "menuName": null,
-          "caption": "Детали",
-          "title": "",
-          "children": null
-        },
+        }
+      ]
+    },
+    {
+      "link": null,
+      "menuName": "клиенты",
+      "caption": "Клиенты",
+      "title": "Клиенты",
+      "children": [
         {
           "link": "i-i-s-snezhko-88888-клиент-l",
           "menuName": null,
           "caption": "Клиент",
-          "title": "",
+          "title": "Клиент",
+          "children": null
+        }
+      ]
+    },
+    {
+      "link": null,
+      "menuName": "заказ",
+      "caption": "Заказ",
+      "title": "Заказ",
+      "children": [
+        {
+          "link": "i-i-s-snezhko-88888-заказ-l",
+          "menuName": null,
+          "caption": "Заказ",
+          "title": "Заказ",
+          "children": null
+        }
+      ]
+    },
+    {
+      "link": null,
+      "menuName": "боксы",
+      "caption": "Боксы",
+      "title": "Боксы",
+      "children": [
+        {
+          "link": "i-i-s-snezhko-88888-бокс-l",
+          "menuName": null,
+          "caption": "Бокс",
+          "title": "Бокс",
+          "children": null
+        }
+      ]
+    },
+    {
+      "link": null,
+      "menuName": "справочник-услуг",
+      "caption": "Справочник услуг",
+      "title": "Справочник услуг",
+      "children": [
+        {
+          "link": "i-i-s-snezhko-88888-услуга-l",
+          "menuName": null,
+          "caption": "Услуга",
+          "title": "Услуга",
+          "children": null
+        }
+      ]
+    },
+    {
+      "link": null,
+      "menuName": "справочник-детали",
+      "caption": "Справочник детали ",
+      "title": "Справочник детали ",
+      "children": [
+        {
+          "link": "i-i-s-snezhko-88888-детали-l",
+          "menuName": null,
+          "caption": "Детали",
+          "title": "Детали",
           "children": null
         }
       ]
